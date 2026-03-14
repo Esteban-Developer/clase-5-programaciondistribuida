@@ -3,6 +3,14 @@
 
 Este proyecto simula múltiples usuarios intentando reservar asientos al mismo tiempo usando Python y threading.
 
+# 🎫 Simulación de Reservas Concurrentes
+
+**Demostración de concurrencia, Race Conditions y sincronización con Python**
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Threading](https://img.shields.io/badge/Threading-Módulo_Estándar-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![License](https://img.shields.io/badge/Licencia-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge)
 ## Problema
 
 Cuando varios procesos acceden al mismo recurso compartido al mismo tiempo puede ocurrir una condición de carrera (race condition), generando datos inconsistentes.

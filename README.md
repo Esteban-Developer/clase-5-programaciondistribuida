@@ -3,7 +3,7 @@
 
 Este proyecto simula múltiples usuarios intentando reservar asientos al mismo tiempo usando Python y threading.
 
-# 🎫 Simulación de Reservas Concurrentes
+# Simulación de Reservas Concurrentes
 
 **Demostración de concurrencia, Race Conditions y sincronización con Python**
 

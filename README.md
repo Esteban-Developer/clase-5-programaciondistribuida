@@ -1,4 +1,5 @@
 # Simulación de Reservas Concurrentes
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" width="300"/>
 
 Este proyecto simula múltiples usuarios intentando reservar asientos al mismo tiempo usando Python y threading.
 
